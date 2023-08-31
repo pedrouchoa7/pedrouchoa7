@@ -12,13 +12,12 @@ Neste momento, meu objetivo profissional é consolidar meu aprendizado. Quero co
 
 👀 Curiosidade: Coleciono Hotwheels
 
-## 🧑‍💻 Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-<br><br>
+## ⚙ Tecnologias e ferramentas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,git,github" />
+  </a>
+</p>
 
 ## 📫 Redes sociais
 <br>
